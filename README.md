@@ -1,6 +1,6 @@
-<h1 align="center"> AluraPlus </h1>
+<h1 align="center"> Portfólio Alura </h1>
 <p>Este projeto foi desenvolvido no curso <b>Html e CSS</b> da <b>Alura</b></p>
-Para acessar o projeto upado no githubPages <a href='https://nicolasreu1.github.io/projeto-the-last-of-us/' target="_blank">clique aqui</a>.</p>
+Para acessar o projeto upado no Vercel <a href='https://projeto-portfolio-alura-five.vercel.app/' target="_blank">clique aqui</a>.</p>
 
 <div align="center">
   <table>
@@ -9,8 +9,8 @@ Para acessar o projeto upado no githubPages <a href='https://nicolasreu1.github.
       <th>✅ FINALIZADO</th>
     </tr>
     <tr>
-      <td>08/04/2023</td>
-      <td>10/04/2023</td>
+      <td>13/04/2023</td>
+      <td>14/04/2023</td>
     </tr>
   </table>
 </div>
